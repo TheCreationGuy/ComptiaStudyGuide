@@ -1,0 +1,27 @@
+Routers route IP from one IP subnet toward another Subnet
+
+Routers reffered to as...
+    OSI layer 3 device
+    Layer 3 switches
+        Layer 2 = Switch
+        Layer 3 = Router
+Firewalls can be layer 3 routers
+    sits between ingress/egress of the network
+
+IDS and IPS detect and track attacks and vulnerabilites
+
+Balancing the load by using "Load Balancers"
+    uses multiple servers to distribute the computing load
+    invisible to the user
+    Best used with Large-scale implementations
+        Web server/databse farms
+    Falut tolerance
+        Helps protects from server outages
+
+Load Balancer Tasks
+    Configures load
+    SSL Offload (Encryption/Decryption)
+    Caching
+    Priorization
+    TCP Offloading
+    Application Switching
