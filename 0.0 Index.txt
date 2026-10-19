@@ -18,4 +18,12 @@ IPS= Intrusion Prevention System
 Detection= Alarms or Alerts
 Prevention= Stops event before it occurs
 
-jkljlkjl
+NFV= Network Function Virtualization
+VPC= Virtual Private Cloud
+VPN= Virtual Private Network
+NAT= Network Address Translation
+SaaS= Software as a service
+IaaS= Infrastructure as a Service (Also known as HaaS)
+HaaS= Hardware as a Service
+PaaS= Platform as a Service
+
