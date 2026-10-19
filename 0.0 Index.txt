@@ -1,0 +1,21 @@
+OSI= Open Systems Interconnection Reference Model
+
+DLC Protocols= Data Link Control
+
+MAC= Media Access Control (on Ethernet)
+
+TCP= Transmission Control Protocol
+UDP = User Datagram Protocol
+
+EUI= Extended Uniquue Identifier
+
+Ingress= outside coming in (network data)
+Egress= Inside going out (network data)
+
+IDS= Intrusion Detection Systems
+IPS= Intrusion Prevention System
+
+Detection= Alarms or Alerts
+Prevention= Stops event before it occurs
+
+jkljlkjl

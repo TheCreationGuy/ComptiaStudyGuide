@@ -1,0 +1,30 @@
+Layer 1: Physical
+    Isn't about software and is hardware issues
+Layer 2: Data Link Layer
+    Basic Network "Language"
+    "Switching Layer"
+Layer 3: Network Layer
+    Also known as the "routing" layer
+    Handles:
+        IP address
+        Subnet Masks
+        Routing
+Layer 4: Transport Layer
+    "Post Office Layer"
+    TCP and UDP Protocols
+    Takes info from one device and places it into another device. Then reconstructs it
+
+Layer 5: Session Layer
+    Requests information to be sent/recieved
+
+
+Layer 6: Presentation Layer
+    Character encoding
+    Application encryption
+    Often combined with Layer 7 (Application Layer)
+
+Layer 7: Application Layer
+    What we see
+    HTTP/ FTP/DNS/POP3 operate here
+
+Wireshark helps capture these Layer incidences
