@@ -1,0 +1,95 @@
+Efficiently move large amounts of data
+    Think of a shipping truck
+        Roads are the network
+        Truck is IP (Internet Protocol)
+        Boxes are your data (Like TCP and UDP)
+        Inside boxes are App Information
+
+Multiplexing happens on layer 4
+
+TCP is connection oriented
+    Sends responses that packages have been delivered
+    "Reliable" delivery
+    Has Flow control
+
+UDP is connectionless with no response of errors
+    No Flow control
+
+Non-ephemeral ports are 0 through 1023
+Ephemeral ports
+    temporary
+    1024 through 65,535
+TCP and UDP ports can be anywhere from 0 through 65,535
+Ports Numbers are communication only
+Some port numbers are well known
+TCP and UDP port numbers ARE different port numbers.
+    TCP port 80 and UDP port 80 ARE DIFFERENT
+
+FTP
+    -Generic way to transfer files
+    -Fully Featured
+        _List_Add_Delete_etc
+    -Commonly associated with ports
+
+SSH are text-based console used to manage files and send encrypted
+SFTP uses SSH File Transfer Protocol
+
+Telnet- unencrypted way of communication
+    Uses "In-the-clear" communication and has EVERYTHING visually shown unencrypted on user and host side
+
+SMTP- easiest way to do server-to-server emails
+    plaintext is in the clear and not used often
+    SMTP is often used for email to phone services
+    Also used IMAP or POP3
+
+DNS is used as placement for IP addressess
+    DNS= (www.google.com)
+    IP Address= ###.###.###.###
+DNS is very critial
+
+DHCP automatically connects IP addresses for anyone who connects to network
+    typically is part of router
+    can be either dynamic or pooled
+    DHCP Reservation= IP addresses are assigned based on time and needs to be refreshed if not done
+
+TFTP- used for very simple file transfers
+    -can only read and write
+    -not used on secure systems
+
+HTTP(S)= Communication in the browser
+    -SSL is older encryption
+    -TLS is newer encryption
+
+NTP keeps every device maintain proper time
+    -Uses this Protocol multiple times a day to maintain syncrization
+
+SNMP gathers network statistics from network devices
+    -has different versions
+    -V1 is the original method using in-the-clear communication
+    -v2 allows bulk data and enhanced data types using in-the-clear communication
+    -v3 is a secure and modern standard.
+        -Uses Authentication and Encryption
+        -Encryption
+        -Message Integrity
+    SNMP trap sends alerts and notifications
+        -great way for it to detect errors and communicate
+
+LDAP is a database for all the users in a directory
+LDAPS is a non-standard implementation of LDAP over SSL
+SMB used by Microsoft Windows and is a protocol
+    -integrated into Windows OS
+    -Also called CIFS
+Syslog- standard protocol for message logging
+    -ussually used with central log collector for active database
+SQL uses a standardized language to access this data
+    Microsoft uses it's own SQL
+RDP is used to share remote desktops
+    -most commonly used for Windows, but other OS can too
+
+SIP uses VoIP and Phone calls
+    -video conferencing
+    -Instant messaging
+    -Phone calls
+    -Hanging up
+____Stopped at Common Ports____
+____Continue at Other Useful Protocols____

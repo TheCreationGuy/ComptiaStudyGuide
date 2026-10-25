@@ -27,3 +27,34 @@ IaaS= Infrastructure as a Service (Also known as HaaS)
 HaaS= Hardware as a Service
 PaaS= Platform as a Service
 
+Multiplexing= transfering multiple application's information to multiple devices
+
+Non-ephemeral ports- permanently designated port numbers
+
+FTP= File Transfer Protocol
+SSH= Secure Shell
+SFTP= Secure FTP
+Telnet= Telecommunication Network
+SMTP= Simple Mail Transfer Protocol
+
+DNS= Domain Name System
+
+DHCP= Dynamic Host Configuration Protocol
+TFTP= Trivial File Transfer Protocol
+HTTP= Hypertext Transfer Protocol
+HTTPS= Hypertext Transfer Protocol Secure
+SSL= Secure Sockets Layer
+TLS= Transport Layer Security
+
+NTP= Network Time Protocol
+SNMP= Simple Network Management Protocol
+
+LDAP= Lightweight Directory Access Portal
+LDAPS= Lightweight Directory Access Portal Secure
+SMB= Server Message Block
+CIFS= Common Internet File System
+SQL= Structured Query Language
+MS-SQL= Microsoft Structured Query Language
+RDP= Remote Desktop Protocol
+SIP= Session Initiation Protocol
+VoIP= Voice over IP

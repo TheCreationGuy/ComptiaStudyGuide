@@ -1,0 +1,33 @@
+TCP= tcp/0 through tcp/65,535
+UPD= tcp/0 through tcp/65,535
+
+FTP (active mode)= tcp/20
+FTP (control) =tcp/21
+
+SSH= tcp/22
+SFTP= tcp/22
+
+Telnet= tcp/23
+SMTP (plaintext)= tcp/25
+SMTP (TLS encryption)= tcp/587
+
+DNS= udp/53
+DNS (Large transfers)= tcp/53
+
+DHCP= udp/67 & udp/68
+TFTP= udp/69
+
+HTTP= tcp/80
+HTTPS= tcp/443
+
+NTP= udp/123
+SNMP= udp/161
+
+SNMP traps= udp/162
+LDAP= tcp/389
+LDAPS= tcp/636
+SMB (Modern)= tcp/445
+SMB (Older)= NetBIOS
+MS-SQL= tcp/1433
+RDP= tcp/3389
+SIP tcp/5060 & tcp/5061
