@@ -58,3 +58,7 @@ MS-SQL= Microsoft Structured Query Language
 RDP= Remote Desktop Protocol
 SIP= Session Initiation Protocol
 VoIP= Voice over IP
+IEEE= Institute of Electrical and Electronics Engineers
+
+
+
