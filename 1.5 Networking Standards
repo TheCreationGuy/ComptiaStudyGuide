@@ -12,3 +12,39 @@ LTEA is a more advanced of 4G
 Satellite networking is a non-terrestrial communication
   High cost, not as fast, high latency. But can be used if none options availible
   Needs direct line of sight.
+  Rain Fade= rain causes breakdown of connectivity
+
+Ethernet is the most common type.
+Ethernet has standards that's maintained by IEEE committee
+IEEE Standards (Sample)
+  -1000BASE-T|Gigabit Ethernet|Copper Wire|1 gigabit per sec
+  -10GBASE-T|10 Gigabit Ethernet|Copper Wire|10 gigabits per sec
+  -1000BASE-SX|Gigabit Ethernet|Fiber Optics|1 gigabit per sec
+Deciphering the standard
+  -Speed, Signal, Media
+  -BASE is baseband
+  -T is twisted pair copper|F is fiber|SX short wavelength light
+
+Fiber Communication
+  -very secure and difficult to tap into
+  -used in long distances due to slow degradation
+  -immune to radio interference
+  -Ferrule is where the outside coating lays
+  -Fiber Core is where the light bounces
+Types of fiber optic cables
+  -multimode fiber is used for short-range communication
+    -inexpensive light source like LED
+    -several lights can be passed
+  -Single-mode fiber
+    -up to 100km without regenerating the signal
+    -uses expensive light source like lazer
+    -only one light beam
+Cabeling is the backbone of networking
+  -twisted pair copper cabling
+      -most common
+      -TRANSMIT+, TRANSMIT-/RECEIVE+,RECEIVE-
+      -the twist constantly keeps the signal moving away from interference
+      -some pairs have different twist rates
+      -Cables don't have any speed
+      -the signals have the speed
+      -IEEE 802.3 have ethernet standards to determine cable type
