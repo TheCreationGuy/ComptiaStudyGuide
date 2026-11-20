@@ -59,6 +59,5 @@ RDP= Remote Desktop Protocol
 SIP= Session Initiation Protocol
 VoIP= Voice over IP
 IEEE= Institute of Electrical and Electronics Engineers
-
-
+LTE= Long Term Evolution
 
