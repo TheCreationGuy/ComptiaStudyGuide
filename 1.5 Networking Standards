@@ -48,3 +48,15 @@ Cabeling is the backbone of networking
       -Cables don't have any speed
       -the signals have the speed
       -IEEE 802.3 have ethernet standards to determine cable type
+      -Cable standards are described as different categories
+  -Coaxial cables share two or more forms that share common axis
+  -Twinaxial cable has two inner conductors
+    -Common on 10 GB ethernet, Full duplex
+    -Is low cost with low latency compared to twisted pair
+  -Plenum Space
+      -Space above ceiling where airflow and cabeling live together
+
+  -Plenum-rated cable
+      -Coated in Polyvinyl chloride
+      -Fired rated cable jackets
+      -Not as flexible as normal cables
