@@ -5,3 +5,7 @@ Transcceiver is a combination of transmitter and receiver
 SFP is normally 1 Gbit/s
 There's an enhanced SFP known as SFP+ with 10 Gigabits Ethernet
 
+QSFP are 4 SFP having 4 channels of SFP
+QSFP+ are 4 SFP+ hold 4 of these
+The QSFP's are larger, but NOT 4x larger. Very space effiecnt
+
