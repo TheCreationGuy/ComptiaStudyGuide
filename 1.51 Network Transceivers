@@ -1,0 +1,4 @@
+Transcceiver is a combination of transmitter and receiver
+  -Provides a modular interface
+  -ethernet channel & fibre channel aren't compatible
+  -Fibre and Copper different media types
