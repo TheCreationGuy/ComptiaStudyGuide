@@ -2,3 +2,6 @@ Transcceiver is a combination of transmitter and receiver
   -Provides a modular interface
   -ethernet channel & fibre channel aren't compatible
   -Fibre and Copper different media types
+SFP is normally 1 Gbit/s
+There's an enhanced SFP known as SFP+ with 10 Gigabits Ethernet
+
