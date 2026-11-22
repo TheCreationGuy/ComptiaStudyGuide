@@ -65,5 +65,5 @@ FEP= Fluorinated ethylene Polymer
 PVC=  Low-Smoke polyvinyl Chloride
 
 SFP= Small Form-Factor Pluggable
-
+QSFP= Quad Small Form-factor Pluggable
 
